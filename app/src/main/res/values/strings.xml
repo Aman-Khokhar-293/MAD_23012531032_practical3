@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project_3</string>
+    <string name="Email_Id">Email Id : </string>
+    <string name="Password">Password : </string>
+    <string name="Forgot_Password">Forgot Password ? </string>
+    <string name="Login"> Login </string>
+    <string name="User_full_name">User full name : </string>
+    <string name="Phone_number">Phone number : </string>
+    <string name="City">City : </string>
+    <string name="Confirm_Password">Confirm Password : </string>
+    <string name="Register">Register  </string>
+    <string name="Do_you_have_an_account">Do you have an account ? </string>
+</resources>
