@@ -18,8 +18,13 @@ This application provides a simple user interface with buttons that perform vari
   - **Open Camera:** Activates the device's camera.
 
 ## Screenshots
+<br>
+<img width="386" height="863" alt="image" src="https://github.com/user-attachments/assets/271f7a8e-689c-4311-a69a-a18e7afdcf55" />
+<br>
+<br>
+<img width="296" height="380" alt="image" src="https://github.com/user-attachments/assets/9885fc16-0860-47c9-be94-9366543999d1" />
+<br>
+<br>
+<img width="295" height="406" alt="image" src="https://github.com/user-attachments/assets/026a3489-7cba-4023-a0d4-2f2631199ab5" />
 
-| Main Activity | Login Activity (Explicit Intent) |
-| :---: | :---: |
-|  |  |
 
